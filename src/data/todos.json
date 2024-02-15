@@ -1,0 +1,27 @@
+[{
+    "id": 1,
+    "descripcion": "Comprar comida para la cena",
+    "estado": "Pendiente",
+    "fecha_creacion": "2024-02-15T19:15:04.224Z"
+  }, {
+    "id": 2,
+    "descripcion": "Comprar regalos de Navidad",
+    "estado": "Cancelada",
+    "fecha_creacion": "2023-04-14 21:42:45"
+  }, {
+    "id": 3,
+    "descripcion": "Pagar las facturas",
+    "estado": "Completa",
+    "fecha_creacion": "2023-11-21 15:11:27"
+  }, {
+    "id": 4,
+    "descripcion": "Hacer la colada",
+    "estado": "Pendiente",
+    "fecha_creacion": "2023-03-18 02:22:08"
+  }, {
+    "id": 5,
+    "descripcion": "Llamar al médico",
+    "estado": "Completa",
+    "fecha_creacion": "2023-10-15 14:45:16"
+  }
+]
